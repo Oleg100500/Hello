@@ -1,8 +1,14 @@
 <html>
   <head>
+    <style>
+      .round {
+      border-radius: 100px;
+      border: 3px;
+      }
     <head>
       <body>
         <center>
+          <img src="https://meragor.com/files/styles//ava_800_800_wm/ava-289.jpg" alt="" class="round">
           <h1> Половюк Олег </h1> 
         </center>
         <hr />
