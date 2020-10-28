@@ -3,6 +3,7 @@
     <head>
       <body>
         <center>
+          <img src="https://meragor.com/files/styles//ava_800_800_wm/ava-289.jpg" height="40px" width="40px">
           <h1> Половюк Олег </h1> 
         </center>
         <hr />
